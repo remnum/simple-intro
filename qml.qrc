@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CharRotation.qml</file>
+        <file>CharDrop.qml</file>
+        <file>DyStringRotationAnim.qml</file>
+        <file>DyStringDropAnim.qml</file>
+        <file>images/logo.svg</file>
+        <file>RotateRect.qml</file>
+    </qresource>
+</RCC>
